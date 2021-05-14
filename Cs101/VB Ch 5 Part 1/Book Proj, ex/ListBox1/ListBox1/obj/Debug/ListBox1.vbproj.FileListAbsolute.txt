@@ -1,0 +1,12 @@
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\ListBox1\ListBox1\bin\Debug\ListBox1.exe.config
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\ListBox1\ListBox1\bin\Debug\ListBox1.exe
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\ListBox1\ListBox1\bin\Debug\ListBox1.pdb
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\ListBox1\ListBox1\bin\Debug\ListBox1.xml
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\ListBox1\ListBox1\obj\Debug\ListBox1.vbprojAssemblyReference.cache
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\ListBox1\ListBox1\obj\Debug\ListBox1.Form1.resources
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\ListBox1\ListBox1\obj\Debug\ListBox1.Resources.resources
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\ListBox1\ListBox1\obj\Debug\ListBox1.vbproj.GenerateResource.cache
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\ListBox1\ListBox1\obj\Debug\ListBox1.vbproj.CoreCompileInputs.cache
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\ListBox1\ListBox1\obj\Debug\ListBox1.exe
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\ListBox1\ListBox1\obj\Debug\ListBox1.xml
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\ListBox1\ListBox1\obj\Debug\ListBox1.pdb

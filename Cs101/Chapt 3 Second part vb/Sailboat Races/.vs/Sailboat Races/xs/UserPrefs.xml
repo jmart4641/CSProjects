@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{E805D46C-3C6B-4B4C-91B9-123AC77E17DC}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Sailboat Races" expanded="True">
+            <Node name="Sailboat Races" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Sailboat_220Races PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

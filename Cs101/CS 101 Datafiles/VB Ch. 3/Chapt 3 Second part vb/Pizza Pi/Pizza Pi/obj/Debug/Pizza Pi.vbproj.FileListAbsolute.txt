@@ -1,0 +1,12 @@
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Chapt 3 Second part vb\Pizza Pi\Pizza Pi\obj\Debug\Pizza Pi.vbprojAssemblyReference.cache
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Chapt 3 Second part vb\Pizza Pi\Pizza Pi\obj\Debug\Pizza_Pi.Form1.resources
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Chapt 3 Second part vb\Pizza Pi\Pizza Pi\obj\Debug\Pizza_Pi.Resources.resources
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Chapt 3 Second part vb\Pizza Pi\Pizza Pi\obj\Debug\Pizza Pi.vbproj.GenerateResource.cache
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Chapt 3 Second part vb\Pizza Pi\Pizza Pi\obj\Debug\Pizza Pi.vbproj.CoreCompileInputs.cache
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Chapt 3 Second part vb\Pizza Pi\Pizza Pi\bin\Debug\Pizza Pi.exe.config
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Chapt 3 Second part vb\Pizza Pi\Pizza Pi\bin\Debug\Pizza Pi.exe
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Chapt 3 Second part vb\Pizza Pi\Pizza Pi\bin\Debug\Pizza Pi.pdb
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Chapt 3 Second part vb\Pizza Pi\Pizza Pi\bin\Debug\Pizza Pi.xml
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Chapt 3 Second part vb\Pizza Pi\Pizza Pi\obj\Debug\Pizza Pi.exe
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Chapt 3 Second part vb\Pizza Pi\Pizza Pi\obj\Debug\Pizza Pi.xml
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Chapt 3 Second part vb\Pizza Pi\Pizza Pi\obj\Debug\Pizza Pi.pdb

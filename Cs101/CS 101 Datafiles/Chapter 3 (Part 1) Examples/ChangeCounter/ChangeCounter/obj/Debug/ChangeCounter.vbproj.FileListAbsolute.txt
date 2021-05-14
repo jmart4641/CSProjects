@@ -1,0 +1,10 @@
+E:\COSCI 103\VB 3\ChangeCounter\ChangeCounter\bin\Debug\ChangeCounter.exe.config
+E:\COSCI 103\VB 3\ChangeCounter\ChangeCounter\bin\Debug\ChangeCounter.exe
+E:\COSCI 103\VB 3\ChangeCounter\ChangeCounter\bin\Debug\ChangeCounter.pdb
+E:\COSCI 103\VB 3\ChangeCounter\ChangeCounter\bin\Debug\ChangeCounter.xml
+E:\COSCI 103\VB 3\ChangeCounter\ChangeCounter\obj\Debug\ChangeCounter.Form1.resources
+E:\COSCI 103\VB 3\ChangeCounter\ChangeCounter\obj\Debug\ChangeCounter.Resources.resources
+E:\COSCI 103\VB 3\ChangeCounter\ChangeCounter\obj\Debug\ChangeCounter.vbproj.GenerateResource.cache
+E:\COSCI 103\VB 3\ChangeCounter\ChangeCounter\obj\Debug\ChangeCounter.exe
+E:\COSCI 103\VB 3\ChangeCounter\ChangeCounter\obj\Debug\ChangeCounter.xml
+E:\COSCI 103\VB 3\ChangeCounter\ChangeCounter\obj\Debug\ChangeCounter.pdb

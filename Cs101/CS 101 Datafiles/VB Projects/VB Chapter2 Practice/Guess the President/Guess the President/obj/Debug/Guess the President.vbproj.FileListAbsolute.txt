@@ -1,0 +1,12 @@
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter2 Practice\Guess the President\Guess the President\bin\Debug\Guess the President.exe.config
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter2 Practice\Guess the President\Guess the President\bin\Debug\Guess the President.exe
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter2 Practice\Guess the President\Guess the President\bin\Debug\Guess the President.pdb
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter2 Practice\Guess the President\Guess the President\bin\Debug\Guess the President.xml
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter2 Practice\Guess the President\Guess the President\obj\Debug\Guess the President.vbprojAssemblyReference.cache
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter2 Practice\Guess the President\Guess the President\obj\Debug\Guess_the_President.Form1.resources
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter2 Practice\Guess the President\Guess the President\obj\Debug\Guess_the_President.Resources.resources
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter2 Practice\Guess the President\Guess the President\obj\Debug\Guess the President.vbproj.GenerateResource.cache
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter2 Practice\Guess the President\Guess the President\obj\Debug\Guess the President.vbproj.CoreCompileInputs.cache
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter2 Practice\Guess the President\Guess the President\obj\Debug\Guess the President.exe
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter2 Practice\Guess the President\Guess the President\obj\Debug\Guess the President.xml
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter2 Practice\Guess the President\Guess the President\obj\Debug\Guess the President.pdb

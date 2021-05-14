@@ -1,0 +1,12 @@
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter 3 prac\ChangeCounter\ChangeCounter\bin\Debug\ChangeCounter.exe.config
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter 3 prac\ChangeCounter\ChangeCounter\bin\Debug\ChangeCounter.exe
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter 3 prac\ChangeCounter\ChangeCounter\bin\Debug\ChangeCounter.pdb
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter 3 prac\ChangeCounter\ChangeCounter\bin\Debug\ChangeCounter.xml
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter 3 prac\ChangeCounter\ChangeCounter\obj\Debug\ChangeCounter.vbprojAssemblyReference.cache
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter 3 prac\ChangeCounter\ChangeCounter\obj\Debug\ChangeCounter.Form1.resources
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter 3 prac\ChangeCounter\ChangeCounter\obj\Debug\ChangeCounter.Resources.resources
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter 3 prac\ChangeCounter\ChangeCounter\obj\Debug\ChangeCounter.vbproj.GenerateResource.cache
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter 3 prac\ChangeCounter\ChangeCounter\obj\Debug\ChangeCounter.vbproj.CoreCompileInputs.cache
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter 3 prac\ChangeCounter\ChangeCounter\obj\Debug\ChangeCounter.exe
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter 3 prac\ChangeCounter\ChangeCounter\obj\Debug\ChangeCounter.xml
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter 3 prac\ChangeCounter\ChangeCounter\obj\Debug\ChangeCounter.pdb

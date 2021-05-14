@@ -1,0 +1,12 @@
+D:\Cs101\VB Ch 5 Part 1\Summing a series of numbers\Summing a series of numbers\bin\Debug\Summing a series of numbers.exe.config
+D:\Cs101\VB Ch 5 Part 1\Summing a series of numbers\Summing a series of numbers\bin\Debug\Summing a series of numbers.exe
+D:\Cs101\VB Ch 5 Part 1\Summing a series of numbers\Summing a series of numbers\bin\Debug\Summing a series of numbers.pdb
+D:\Cs101\VB Ch 5 Part 1\Summing a series of numbers\Summing a series of numbers\bin\Debug\Summing a series of numbers.xml
+D:\Cs101\VB Ch 5 Part 1\Summing a series of numbers\Summing a series of numbers\obj\Debug\Summing a series of numbers.vbprojAssemblyReference.cache
+D:\Cs101\VB Ch 5 Part 1\Summing a series of numbers\Summing a series of numbers\obj\Debug\Summing_a_series_of_numbers.Form1.resources
+D:\Cs101\VB Ch 5 Part 1\Summing a series of numbers\Summing a series of numbers\obj\Debug\Summing_a_series_of_numbers.Resources.resources
+D:\Cs101\VB Ch 5 Part 1\Summing a series of numbers\Summing a series of numbers\obj\Debug\Summing a series of numbers.vbproj.GenerateResource.cache
+D:\Cs101\VB Ch 5 Part 1\Summing a series of numbers\Summing a series of numbers\obj\Debug\Summing a series of numbers.vbproj.CoreCompileInputs.cache
+D:\Cs101\VB Ch 5 Part 1\Summing a series of numbers\Summing a series of numbers\obj\Debug\Summing a series of numbers.exe
+D:\Cs101\VB Ch 5 Part 1\Summing a series of numbers\Summing a series of numbers\obj\Debug\Summing a series of numbers.xml
+D:\Cs101\VB Ch 5 Part 1\Summing a series of numbers\Summing a series of numbers\obj\Debug\Summing a series of numbers.pdb

@@ -1,0 +1,12 @@
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter 3 prac\Tip Calculator\Tip Calculator\bin\Debug\Tip Calculator.exe.config
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter 3 prac\Tip Calculator\Tip Calculator\bin\Debug\Tip Calculator.exe
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter 3 prac\Tip Calculator\Tip Calculator\bin\Debug\Tip Calculator.pdb
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter 3 prac\Tip Calculator\Tip Calculator\bin\Debug\Tip Calculator.xml
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter 3 prac\Tip Calculator\Tip Calculator\obj\Debug\Tip Calculator.vbprojAssemblyReference.cache
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter 3 prac\Tip Calculator\Tip Calculator\obj\Debug\Tip_Calculator.Form1.resources
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter 3 prac\Tip Calculator\Tip Calculator\obj\Debug\Tip_Calculator.Resources.resources
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter 3 prac\Tip Calculator\Tip Calculator\obj\Debug\Tip Calculator.vbproj.GenerateResource.cache
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter 3 prac\Tip Calculator\Tip Calculator\obj\Debug\Tip Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter 3 prac\Tip Calculator\Tip Calculator\obj\Debug\Tip Calculator.exe
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter 3 prac\Tip Calculator\Tip Calculator\obj\Debug\Tip Calculator.xml
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter 3 prac\Tip Calculator\Tip Calculator\obj\Debug\Tip Calculator.pdb

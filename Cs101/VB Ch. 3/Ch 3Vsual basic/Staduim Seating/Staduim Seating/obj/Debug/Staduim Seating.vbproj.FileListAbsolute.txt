@@ -1,0 +1,12 @@
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Staduim Seating\Staduim Seating\obj\Debug\Staduim Seating.vbprojAssemblyReference.cache
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Staduim Seating\Staduim Seating\obj\Debug\Staduim_Seating.Resources.resources
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Staduim Seating\Staduim Seating\obj\Debug\Staduim Seating.vbproj.GenerateResource.cache
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Staduim Seating\Staduim Seating\obj\Debug\Staduim Seating.vbproj.CoreCompileInputs.cache
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Staduim Seating\Staduim Seating\bin\Debug\Staduim Seating.exe.config
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Staduim Seating\Staduim Seating\bin\Debug\Staduim Seating.exe
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Staduim Seating\Staduim Seating\bin\Debug\Staduim Seating.pdb
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Staduim Seating\Staduim Seating\bin\Debug\Staduim Seating.xml
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Staduim Seating\Staduim Seating\obj\Debug\Staduim Seating.exe
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Staduim Seating\Staduim Seating\obj\Debug\Staduim Seating.xml
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Staduim Seating\Staduim Seating\obj\Debug\Staduim Seating.pdb
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Staduim Seating\Staduim Seating\obj\Debug\Staduim_Seating.Form1.resources

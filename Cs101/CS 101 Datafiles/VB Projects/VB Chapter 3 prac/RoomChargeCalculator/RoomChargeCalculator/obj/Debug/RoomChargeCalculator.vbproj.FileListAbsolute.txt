@@ -1,0 +1,12 @@
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter 3 prac\RoomChargeCalculator\RoomChargeCalculator\bin\Debug\RoomChargeCalculator.exe.config
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter 3 prac\RoomChargeCalculator\RoomChargeCalculator\bin\Debug\RoomChargeCalculator.exe
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter 3 prac\RoomChargeCalculator\RoomChargeCalculator\bin\Debug\RoomChargeCalculator.pdb
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter 3 prac\RoomChargeCalculator\RoomChargeCalculator\bin\Debug\RoomChargeCalculator.xml
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter 3 prac\RoomChargeCalculator\RoomChargeCalculator\obj\Debug\RoomChargeCalculator.vbprojAssemblyReference.cache
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter 3 prac\RoomChargeCalculator\RoomChargeCalculator\obj\Debug\RoomChargeCalculator.Form1.resources
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter 3 prac\RoomChargeCalculator\RoomChargeCalculator\obj\Debug\RoomChargeCalculator.Resources.resources
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter 3 prac\RoomChargeCalculator\RoomChargeCalculator\obj\Debug\RoomChargeCalculator.vbproj.GenerateResource.cache
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter 3 prac\RoomChargeCalculator\RoomChargeCalculator\obj\Debug\RoomChargeCalculator.vbproj.CoreCompileInputs.cache
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter 3 prac\RoomChargeCalculator\RoomChargeCalculator\obj\Debug\RoomChargeCalculator.exe
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter 3 prac\RoomChargeCalculator\RoomChargeCalculator\obj\Debug\RoomChargeCalculator.xml
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter 3 prac\RoomChargeCalculator\RoomChargeCalculator\obj\Debug\RoomChargeCalculator.pdb

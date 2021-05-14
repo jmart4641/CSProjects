@@ -1,0 +1,12 @@
+D:\Cs101\Chapter 3 VB\Variable Demo\Variable Demo\bin\Debug\Variable Demo.exe.config
+D:\Cs101\Chapter 3 VB\Variable Demo\Variable Demo\bin\Debug\Variable Demo.exe
+D:\Cs101\Chapter 3 VB\Variable Demo\Variable Demo\bin\Debug\Variable Demo.pdb
+D:\Cs101\Chapter 3 VB\Variable Demo\Variable Demo\bin\Debug\Variable Demo.xml
+D:\Cs101\Chapter 3 VB\Variable Demo\Variable Demo\obj\Debug\Variable Demo.vbprojAssemblyReference.cache
+D:\Cs101\Chapter 3 VB\Variable Demo\Variable Demo\obj\Debug\Variable_Demo.Form1.resources
+D:\Cs101\Chapter 3 VB\Variable Demo\Variable Demo\obj\Debug\Variable_Demo.Resources.resources
+D:\Cs101\Chapter 3 VB\Variable Demo\Variable Demo\obj\Debug\Variable Demo.vbproj.GenerateResource.cache
+D:\Cs101\Chapter 3 VB\Variable Demo\Variable Demo\obj\Debug\Variable Demo.vbproj.CoreCompileInputs.cache
+D:\Cs101\Chapter 3 VB\Variable Demo\Variable Demo\obj\Debug\Variable Demo.exe
+D:\Cs101\Chapter 3 VB\Variable Demo\Variable Demo\obj\Debug\Variable Demo.xml
+D:\Cs101\Chapter 3 VB\Variable Demo\Variable Demo\obj\Debug\Variable Demo.pdb

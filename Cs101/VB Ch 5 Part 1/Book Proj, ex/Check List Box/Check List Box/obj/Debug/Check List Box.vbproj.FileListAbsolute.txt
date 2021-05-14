@@ -1,0 +1,12 @@
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\Check List Box\Check List Box\bin\Debug\Check List Box.exe.config
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\Check List Box\Check List Box\bin\Debug\Check List Box.exe
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\Check List Box\Check List Box\bin\Debug\Check List Box.pdb
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\Check List Box\Check List Box\bin\Debug\Check List Box.xml
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\Check List Box\Check List Box\obj\Debug\Check List Box.vbprojAssemblyReference.cache
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\Check List Box\Check List Box\obj\Debug\Check_List_Box.Form1.resources
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\Check List Box\Check List Box\obj\Debug\Check_List_Box.Resources.resources
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\Check List Box\Check List Box\obj\Debug\Check List Box.vbproj.GenerateResource.cache
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\Check List Box\Check List Box\obj\Debug\Check List Box.vbproj.CoreCompileInputs.cache
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\Check List Box\Check List Box\obj\Debug\Check List Box.exe
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\Check List Box\Check List Box\obj\Debug\Check List Box.xml
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\Check List Box\Check List Box\obj\Debug\Check List Box.pdb

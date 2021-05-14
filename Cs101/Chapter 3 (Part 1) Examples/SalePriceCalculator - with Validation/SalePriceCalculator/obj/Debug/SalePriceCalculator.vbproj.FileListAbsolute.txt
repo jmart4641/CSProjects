@@ -1,0 +1,26 @@
+E:\COSCI 103\VB 3\SalePriceCalculator\SalePriceCalculator\bin\Debug\SalePriceCalculator.exe.config
+E:\COSCI 103\VB 3\SalePriceCalculator\SalePriceCalculator\bin\Debug\SalePriceCalculator.exe
+E:\COSCI 103\VB 3\SalePriceCalculator\SalePriceCalculator\bin\Debug\SalePriceCalculator.pdb
+E:\COSCI 103\VB 3\SalePriceCalculator\SalePriceCalculator\bin\Debug\SalePriceCalculator.xml
+E:\COSCI 103\VB 3\SalePriceCalculator\SalePriceCalculator\obj\Debug\SalePriceCalculator.vbprojAssemblyReference.cache
+E:\COSCI 103\VB 3\SalePriceCalculator\SalePriceCalculator\obj\Debug\SalePriceCalculator.Form1.resources
+E:\COSCI 103\VB 3\SalePriceCalculator\SalePriceCalculator\obj\Debug\SalePriceCalculator.Resources.resources
+E:\COSCI 103\VB 3\SalePriceCalculator\SalePriceCalculator\obj\Debug\SalePriceCalculator.vbproj.GenerateResource.cache
+E:\COSCI 103\VB 3\SalePriceCalculator\SalePriceCalculator\obj\Debug\SalePriceCalculator.vbproj.CoreCompileInputs.cache
+E:\COSCI 103\VB 3\SalePriceCalculator\SalePriceCalculator\obj\Debug\SalePriceCalculator.exe
+E:\COSCI 103\VB 3\SalePriceCalculator\SalePriceCalculator\obj\Debug\SalePriceCalculator.xml
+E:\COSCI 103\VB 3\SalePriceCalculator\SalePriceCalculator\obj\Debug\SalePriceCalculator.pdb
+E:\COSCI 103\VB 3\SalePriceCalculator - Template 2\SalePriceCalculator\bin\Debug\SalePriceCalculator.exe.config
+E:\COSCI 103\VB 3\SalePriceCalculator - Template 2\SalePriceCalculator\obj\Debug\SalePriceCalculator.exe
+E:\COSCI 103\VB 3\SalePriceCalculator - Template 2\SalePriceCalculator\obj\Debug\SalePriceCalculator.xml
+E:\COSCI 103\VB 3\SalePriceCalculator - Template 2\SalePriceCalculator\obj\Debug\SalePriceCalculator.pdb
+E:\COSCI 103\VB 3\SalePriceCalculator - with Validation\SalePriceCalculator\bin\Debug\SalePriceCalculator.exe.config
+E:\COSCI 103\VB 3\SalePriceCalculator - with Validation\SalePriceCalculator\obj\Debug\SalePriceCalculator.exe
+E:\COSCI 103\VB 3\SalePriceCalculator - with Validation\SalePriceCalculator\obj\Debug\SalePriceCalculator.xml
+E:\COSCI 103\VB 3\SalePriceCalculator - with Validation\SalePriceCalculator\obj\Debug\SalePriceCalculator.pdb
+E:\COSCI 103\VB 3\SalePriceCalculator - with Validation\SalePriceCalculator\bin\Debug\SalePriceCalculator.exe
+E:\COSCI 103\VB 3\SalePriceCalculator - with Validation\SalePriceCalculator\bin\Debug\SalePriceCalculator.pdb
+E:\COSCI 103\VB 3\SalePriceCalculator - with Validation\SalePriceCalculator\bin\Debug\SalePriceCalculator.xml
+E:\COSCI 103\VB 3\SalePriceCalculator - with Validation\SalePriceCalculator\obj\Debug\SalePriceCalculator.Form1.resources
+E:\COSCI 103\VB 3\SalePriceCalculator - with Validation\SalePriceCalculator\obj\Debug\SalePriceCalculator.Resources.resources
+E:\COSCI 103\VB 3\SalePriceCalculator - with Validation\SalePriceCalculator\obj\Debug\SalePriceCalculator.vbproj.GenerateResource.Cache

@@ -1,0 +1,12 @@
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB 4 Part 1\FatPercentageCalculator\FatPercentageCalculator\bin\Debug\FatPercentageCalculator.exe.config
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB 4 Part 1\FatPercentageCalculator\FatPercentageCalculator\bin\Debug\FatPercentageCalculator.exe
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB 4 Part 1\FatPercentageCalculator\FatPercentageCalculator\bin\Debug\FatPercentageCalculator.pdb
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB 4 Part 1\FatPercentageCalculator\FatPercentageCalculator\bin\Debug\FatPercentageCalculator.xml
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB 4 Part 1\FatPercentageCalculator\FatPercentageCalculator\obj\Debug\FatPercentageCalculator.vbprojAssemblyReference.cache
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB 4 Part 1\FatPercentageCalculator\FatPercentageCalculator\obj\Debug\FatPercentageCalculator.Form1.resources
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB 4 Part 1\FatPercentageCalculator\FatPercentageCalculator\obj\Debug\FatPercentageCalculator.Resources.resources
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB 4 Part 1\FatPercentageCalculator\FatPercentageCalculator\obj\Debug\FatPercentageCalculator.vbproj.GenerateResource.cache
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB 4 Part 1\FatPercentageCalculator\FatPercentageCalculator\obj\Debug\FatPercentageCalculator.vbproj.CoreCompileInputs.cache
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB 4 Part 1\FatPercentageCalculator\FatPercentageCalculator\obj\Debug\FatPercentageCalculator.exe
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB 4 Part 1\FatPercentageCalculator\FatPercentageCalculator\obj\Debug\FatPercentageCalculator.xml
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB 4 Part 1\FatPercentageCalculator\FatPercentageCalculator\obj\Debug\FatPercentageCalculator.pdb

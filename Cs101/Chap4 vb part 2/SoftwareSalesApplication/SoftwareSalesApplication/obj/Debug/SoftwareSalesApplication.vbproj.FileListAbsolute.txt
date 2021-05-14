@@ -1,0 +1,36 @@
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB 4 Part 2\SoftwareSalesApplication\SoftwareSalesApplication\bin\Debug\SoftwareSalesApplication.exe.config
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB 4 Part 2\SoftwareSalesApplication\SoftwareSalesApplication\bin\Debug\SoftwareSalesApplication.exe
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB 4 Part 2\SoftwareSalesApplication\SoftwareSalesApplication\bin\Debug\SoftwareSalesApplication.pdb
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB 4 Part 2\SoftwareSalesApplication\SoftwareSalesApplication\bin\Debug\SoftwareSalesApplication.xml
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB 4 Part 2\SoftwareSalesApplication\SoftwareSalesApplication\obj\Debug\SoftwareSalesApplication.vbprojAssemblyReference.cache
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB 4 Part 2\SoftwareSalesApplication\SoftwareSalesApplication\obj\Debug\SoftwareSalesApplication.Form1.resources
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB 4 Part 2\SoftwareSalesApplication\SoftwareSalesApplication\obj\Debug\SoftwareSalesApplication.Resources.resources
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB 4 Part 2\SoftwareSalesApplication\SoftwareSalesApplication\obj\Debug\SoftwareSalesApplication.vbproj.GenerateResource.cache
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB 4 Part 2\SoftwareSalesApplication\SoftwareSalesApplication\obj\Debug\SoftwareSalesApplication.vbproj.CoreCompileInputs.cache
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB 4 Part 2\SoftwareSalesApplication\SoftwareSalesApplication\obj\Debug\SoftwareSalesApplication.exe
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB 4 Part 2\SoftwareSalesApplication\SoftwareSalesApplication\obj\Debug\SoftwareSalesApplication.xml
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB 4 Part 2\SoftwareSalesApplication\SoftwareSalesApplication\obj\Debug\SoftwareSalesApplication.pdb
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB Ch 4 Part 2 Examples\SoftwareSalesApplication\SoftwareSalesApplication\bin\Debug\SoftwareSalesApplication.exe.config
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB Ch 4 Part 2 Examples\SoftwareSalesApplication\SoftwareSalesApplication\bin\Debug\SoftwareSalesApplication.exe
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB Ch 4 Part 2 Examples\SoftwareSalesApplication\SoftwareSalesApplication\bin\Debug\SoftwareSalesApplication.pdb
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB Ch 4 Part 2 Examples\SoftwareSalesApplication\SoftwareSalesApplication\bin\Debug\SoftwareSalesApplication.xml
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB Ch 4 Part 2 Examples\SoftwareSalesApplication\SoftwareSalesApplication\obj\Debug\SoftwareSalesApplication.vbprojAssemblyReference.cache
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB Ch 4 Part 2 Examples\SoftwareSalesApplication\SoftwareSalesApplication\obj\Debug\SoftwareSalesApplication.Form1.resources
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB Ch 4 Part 2 Examples\SoftwareSalesApplication\SoftwareSalesApplication\obj\Debug\SoftwareSalesApplication.Resources.resources
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB Ch 4 Part 2 Examples\SoftwareSalesApplication\SoftwareSalesApplication\obj\Debug\SoftwareSalesApplication.vbproj.GenerateResource.cache
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB Ch 4 Part 2 Examples\SoftwareSalesApplication\SoftwareSalesApplication\obj\Debug\SoftwareSalesApplication.vbproj.CoreCompileInputs.cache
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB Ch 4 Part 2 Examples\SoftwareSalesApplication\SoftwareSalesApplication\obj\Debug\SoftwareSalesApplication.exe
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB Ch 4 Part 2 Examples\SoftwareSalesApplication\SoftwareSalesApplication\obj\Debug\SoftwareSalesApplication.xml
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB Ch 4 Part 2 Examples\SoftwareSalesApplication\SoftwareSalesApplication\obj\Debug\SoftwareSalesApplication.pdb
+C:\Users\josem\OneDrive\Desktop\Chap4 vb part 2\SoftwareSalesApplication\SoftwareSalesApplication\bin\Debug\SoftwareSalesApplication.exe.config
+C:\Users\josem\OneDrive\Desktop\Chap4 vb part 2\SoftwareSalesApplication\SoftwareSalesApplication\bin\Debug\SoftwareSalesApplication.exe
+C:\Users\josem\OneDrive\Desktop\Chap4 vb part 2\SoftwareSalesApplication\SoftwareSalesApplication\bin\Debug\SoftwareSalesApplication.pdb
+C:\Users\josem\OneDrive\Desktop\Chap4 vb part 2\SoftwareSalesApplication\SoftwareSalesApplication\bin\Debug\SoftwareSalesApplication.xml
+C:\Users\josem\OneDrive\Desktop\Chap4 vb part 2\SoftwareSalesApplication\SoftwareSalesApplication\obj\Debug\SoftwareSalesApplication.vbprojAssemblyReference.cache
+C:\Users\josem\OneDrive\Desktop\Chap4 vb part 2\SoftwareSalesApplication\SoftwareSalesApplication\obj\Debug\SoftwareSalesApplication.Form1.resources
+C:\Users\josem\OneDrive\Desktop\Chap4 vb part 2\SoftwareSalesApplication\SoftwareSalesApplication\obj\Debug\SoftwareSalesApplication.Resources.resources
+C:\Users\josem\OneDrive\Desktop\Chap4 vb part 2\SoftwareSalesApplication\SoftwareSalesApplication\obj\Debug\SoftwareSalesApplication.vbproj.GenerateResource.cache
+C:\Users\josem\OneDrive\Desktop\Chap4 vb part 2\SoftwareSalesApplication\SoftwareSalesApplication\obj\Debug\SoftwareSalesApplication.vbproj.CoreCompileInputs.cache
+C:\Users\josem\OneDrive\Desktop\Chap4 vb part 2\SoftwareSalesApplication\SoftwareSalesApplication\obj\Debug\SoftwareSalesApplication.exe
+C:\Users\josem\OneDrive\Desktop\Chap4 vb part 2\SoftwareSalesApplication\SoftwareSalesApplication\obj\Debug\SoftwareSalesApplication.xml
+C:\Users\josem\OneDrive\Desktop\Chap4 vb part 2\SoftwareSalesApplication\SoftwareSalesApplication\obj\Debug\SoftwareSalesApplication.pdb

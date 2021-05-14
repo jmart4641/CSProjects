@@ -1,0 +1,17 @@
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB chapter 2\Langauge Translator\Langauge Translator\bin\Debug\Langauge Translator.exe.config
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB chapter 2\Langauge Translator\Langauge Translator\bin\Debug\Langauge Translator.exe
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB chapter 2\Langauge Translator\Langauge Translator\bin\Debug\Langauge Translator.pdb
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB chapter 2\Langauge Translator\Langauge Translator\bin\Debug\Langauge Translator.xml
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB chapter 2\Langauge Translator\Langauge Translator\obj\Debug\Langauge Translator.vbprojAssemblyReference.cache
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB chapter 2\Langauge Translator\Langauge Translator\obj\Debug\MainWindow.g.vb
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB chapter 2\Langauge Translator\Langauge Translator\obj\Debug\Application.g.vb
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB chapter 2\Langauge Translator\Langauge Translator\obj\Debug\Langauge Translator_MarkupCompile.cache
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB chapter 2\Langauge Translator\Langauge Translator\obj\Debug\Langauge Translator_MarkupCompile.lref
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB chapter 2\Langauge Translator\Langauge Translator\obj\Debug\MainWindow.baml
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB chapter 2\Langauge Translator\Langauge Translator\obj\Debug\Langauge Translator.g.resources
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB chapter 2\Langauge Translator\Langauge Translator\obj\Debug\Langauge_Translator.Resources.resources
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB chapter 2\Langauge Translator\Langauge Translator\obj\Debug\Langauge Translator.vbproj.GenerateResource.cache
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB chapter 2\Langauge Translator\Langauge Translator\obj\Debug\Langauge Translator.vbproj.CoreCompileInputs.cache
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB chapter 2\Langauge Translator\Langauge Translator\obj\Debug\Langauge Translator.exe
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB chapter 2\Langauge Translator\Langauge Translator\obj\Debug\Langauge Translator.xml
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB chapter 2\Langauge Translator\Langauge Translator\obj\Debug\Langauge Translator.pdb

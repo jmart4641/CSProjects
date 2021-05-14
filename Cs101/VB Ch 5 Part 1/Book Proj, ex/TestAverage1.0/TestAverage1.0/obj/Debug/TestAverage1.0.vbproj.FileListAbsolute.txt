@@ -1,0 +1,12 @@
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\TestAverage1.0\TestAverage1.0\obj\Debug\TestAverage1.0.vbprojAssemblyReference.cache
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\TestAverage1.0\TestAverage1.0\obj\Debug\TestAverage1._0.Form1.resources
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\TestAverage1.0\TestAverage1.0\obj\Debug\TestAverage1._0.Resources.resources
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\TestAverage1.0\TestAverage1.0\obj\Debug\TestAverage1.0.vbproj.GenerateResource.cache
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\TestAverage1.0\TestAverage1.0\obj\Debug\TestAverage1.0.vbproj.CoreCompileInputs.cache
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\TestAverage1.0\TestAverage1.0\bin\Debug\TestAverage1.0.exe.config
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\TestAverage1.0\TestAverage1.0\bin\Debug\TestAverage1.0.exe
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\TestAverage1.0\TestAverage1.0\bin\Debug\TestAverage1.0.pdb
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\TestAverage1.0\TestAverage1.0\bin\Debug\TestAverage1.0.xml
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\TestAverage1.0\TestAverage1.0\obj\Debug\TestAverage1.0.exe
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\TestAverage1.0\TestAverage1.0\obj\Debug\TestAverage1.0.xml
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\TestAverage1.0\TestAverage1.0\obj\Debug\TestAverage1.0.pdb

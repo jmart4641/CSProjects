@@ -1,0 +1,12 @@
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB 4 Part 1\RomanNumeralConverter\RomanNumeralConverter\bin\Debug\RomanNumeralConverter.exe.config
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB 4 Part 1\RomanNumeralConverter\RomanNumeralConverter\bin\Debug\RomanNumeralConverter.exe
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB 4 Part 1\RomanNumeralConverter\RomanNumeralConverter\bin\Debug\RomanNumeralConverter.pdb
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB 4 Part 1\RomanNumeralConverter\RomanNumeralConverter\bin\Debug\RomanNumeralConverter.xml
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB 4 Part 1\RomanNumeralConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.vbprojAssemblyReference.cache
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB 4 Part 1\RomanNumeralConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.Form1.resources
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB 4 Part 1\RomanNumeralConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.Resources.resources
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB 4 Part 1\RomanNumeralConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.vbproj.GenerateResource.cache
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB 4 Part 1\RomanNumeralConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.vbproj.CoreCompileInputs.cache
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB 4 Part 1\RomanNumeralConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.exe
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB 4 Part 1\RomanNumeralConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.xml
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB 4 Part 1\RomanNumeralConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.pdb

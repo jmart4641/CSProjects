@@ -1,0 +1,5 @@
+D:\Cs101\VB Chapter 2\My First Program\My First Program\obj\Debug\My First Program.vbprojAssemblyReference.cache
+D:\Cs101\VB Chapter 2\My First Program\My First Program\obj\Debug\My_First_Program.Form1.resources
+D:\Cs101\VB Chapter 2\My First Program\My First Program\obj\Debug\My_First_Program.Resources.resources
+D:\Cs101\VB Chapter 2\My First Program\My First Program\obj\Debug\My First Program.vbproj.GenerateResource.cache
+D:\Cs101\VB Chapter 2\My First Program\My First Program\obj\Debug\My First Program.vbproj.CoreCompileInputs.cache

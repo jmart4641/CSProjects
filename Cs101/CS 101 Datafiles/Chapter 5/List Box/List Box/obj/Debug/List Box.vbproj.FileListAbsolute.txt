@@ -1,0 +1,12 @@
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\Chapter 5\List Box\List Box\bin\Debug\List Box.exe.config
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\Chapter 5\List Box\List Box\bin\Debug\List Box.exe
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\Chapter 5\List Box\List Box\bin\Debug\List Box.pdb
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\Chapter 5\List Box\List Box\bin\Debug\List Box.xml
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\Chapter 5\List Box\List Box\obj\Debug\List Box.vbprojAssemblyReference.cache
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\Chapter 5\List Box\List Box\obj\Debug\List_Box.Form1.resources
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\Chapter 5\List Box\List Box\obj\Debug\List_Box.Resources.resources
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\Chapter 5\List Box\List Box\obj\Debug\List Box.vbproj.GenerateResource.cache
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\Chapter 5\List Box\List Box\obj\Debug\List Box.vbproj.CoreCompileInputs.cache
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\Chapter 5\List Box\List Box\obj\Debug\List Box.exe
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\Chapter 5\List Box\List Box\obj\Debug\List Box.xml
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\Chapter 5\List Box\List Box\obj\Debug\List Box.pdb

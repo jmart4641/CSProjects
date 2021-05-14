@@ -1,0 +1,12 @@
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Chapt 3 Second part vb\Sailboat Races\Sailboat Races\bin\Debug\Sailboat Races.exe.config
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Chapt 3 Second part vb\Sailboat Races\Sailboat Races\bin\Debug\Sailboat Races.exe
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Chapt 3 Second part vb\Sailboat Races\Sailboat Races\bin\Debug\Sailboat Races.pdb
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Chapt 3 Second part vb\Sailboat Races\Sailboat Races\bin\Debug\Sailboat Races.xml
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Chapt 3 Second part vb\Sailboat Races\Sailboat Races\obj\Debug\Sailboat Races.vbprojAssemblyReference.cache
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Chapt 3 Second part vb\Sailboat Races\Sailboat Races\obj\Debug\Sailboat_Races.Form1.resources
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Chapt 3 Second part vb\Sailboat Races\Sailboat Races\obj\Debug\Sailboat_Races.Resources.resources
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Chapt 3 Second part vb\Sailboat Races\Sailboat Races\obj\Debug\Sailboat Races.vbproj.GenerateResource.cache
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Chapt 3 Second part vb\Sailboat Races\Sailboat Races\obj\Debug\Sailboat Races.vbproj.CoreCompileInputs.cache
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Chapt 3 Second part vb\Sailboat Races\Sailboat Races\obj\Debug\Sailboat Races.exe
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Chapt 3 Second part vb\Sailboat Races\Sailboat Races\obj\Debug\Sailboat Races.xml
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Chapt 3 Second part vb\Sailboat Races\Sailboat Races\obj\Debug\Sailboat Races.pdb

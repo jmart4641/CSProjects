@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Runn Timer", "Runn Timer\Runn Timer.vbproj", "{98FD04FB-F0FE-42CA-A419-CEEB5B6B07B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98FD04FB-F0FE-42CA-A419-CEEB5B6B07B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98FD04FB-F0FE-42CA-A419-CEEB5B6B07B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98FD04FB-F0FE-42CA-A419-CEEB5B6B07B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98FD04FB-F0FE-42CA-A419-CEEB5B6B07B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {197A350F-F318-4B5F-8FAD-84DC5DC2DA3F}
+	EndGlobalSection
+EndGlobal

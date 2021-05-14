@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Pizza Pi", "Pizza Pi\Pizza Pi.vbproj", "{51A8F911-DCE4-45FB-88F7-2D9281A8E7B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51A8F911-DCE4-45FB-88F7-2D9281A8E7B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51A8F911-DCE4-45FB-88F7-2D9281A8E7B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51A8F911-DCE4-45FB-88F7-2D9281A8E7B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51A8F911-DCE4-45FB-88F7-2D9281A8E7B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51FB62F3-B424-4E5A-970B-72E9EB3C24E5}
+	EndGlobalSection
+EndGlobal

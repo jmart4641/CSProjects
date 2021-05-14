@@ -1,0 +1,12 @@
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB 4 Part 1\LargerandSmaller\LargerandSmaller\bin\Debug\LargerandSmaller.exe.config
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB 4 Part 1\LargerandSmaller\LargerandSmaller\bin\Debug\LargerandSmaller.exe
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB 4 Part 1\LargerandSmaller\LargerandSmaller\bin\Debug\LargerandSmaller.pdb
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB 4 Part 1\LargerandSmaller\LargerandSmaller\bin\Debug\LargerandSmaller.xml
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB 4 Part 1\LargerandSmaller\LargerandSmaller\obj\Debug\LargerandSmaller.vbprojAssemblyReference.cache
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB 4 Part 1\LargerandSmaller\LargerandSmaller\obj\Debug\LargerandSmaller.Form1.resources
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB 4 Part 1\LargerandSmaller\LargerandSmaller\obj\Debug\LargerandSmaller.Resources.resources
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB 4 Part 1\LargerandSmaller\LargerandSmaller\obj\Debug\LargerandSmaller.vbproj.GenerateResource.cache
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB 4 Part 1\LargerandSmaller\LargerandSmaller\obj\Debug\LargerandSmaller.vbproj.CoreCompileInputs.cache
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB 4 Part 1\LargerandSmaller\LargerandSmaller\obj\Debug\LargerandSmaller.exe
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB 4 Part 1\LargerandSmaller\LargerandSmaller\obj\Debug\LargerandSmaller.xml
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Chapter 4\VB 4 Part 1\LargerandSmaller\LargerandSmaller\obj\Debug\LargerandSmaller.pdb

@@ -1,0 +1,12 @@
+D:\Cs101\Chapter 3 VB\Greetings\Greetings\bin\Debug\Greetings.exe.config
+D:\Cs101\Chapter 3 VB\Greetings\Greetings\bin\Debug\Greetings.exe
+D:\Cs101\Chapter 3 VB\Greetings\Greetings\bin\Debug\Greetings.pdb
+D:\Cs101\Chapter 3 VB\Greetings\Greetings\bin\Debug\Greetings.xml
+D:\Cs101\Chapter 3 VB\Greetings\Greetings\obj\Debug\Greetings.vbprojAssemblyReference.cache
+D:\Cs101\Chapter 3 VB\Greetings\Greetings\obj\Debug\Greetings.Form1.resources
+D:\Cs101\Chapter 3 VB\Greetings\Greetings\obj\Debug\Greetings.Resources.resources
+D:\Cs101\Chapter 3 VB\Greetings\Greetings\obj\Debug\Greetings.vbproj.GenerateResource.cache
+D:\Cs101\Chapter 3 VB\Greetings\Greetings\obj\Debug\Greetings.vbproj.CoreCompileInputs.cache
+D:\Cs101\Chapter 3 VB\Greetings\Greetings\obj\Debug\Greetings.exe
+D:\Cs101\Chapter 3 VB\Greetings\Greetings\obj\Debug\Greetings.xml
+D:\Cs101\Chapter 3 VB\Greetings\Greetings\obj\Debug\Greetings.pdb

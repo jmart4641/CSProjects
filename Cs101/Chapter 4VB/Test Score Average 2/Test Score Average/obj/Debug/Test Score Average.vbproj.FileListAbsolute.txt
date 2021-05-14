@@ -1,0 +1,24 @@
+D:\Cs101\Chapter 4VB\Test Score Average\Test Score Average\bin\Debug\Test Score Average.exe.config
+D:\Cs101\Chapter 4VB\Test Score Average\Test Score Average\bin\Debug\Test Score Average.exe
+D:\Cs101\Chapter 4VB\Test Score Average\Test Score Average\bin\Debug\Test Score Average.pdb
+D:\Cs101\Chapter 4VB\Test Score Average\Test Score Average\bin\Debug\Test Score Average.xml
+D:\Cs101\Chapter 4VB\Test Score Average\Test Score Average\obj\Debug\Test Score Average.vbprojAssemblyReference.cache
+D:\Cs101\Chapter 4VB\Test Score Average\Test Score Average\obj\Debug\Test_Score_Average.Form1.resources
+D:\Cs101\Chapter 4VB\Test Score Average\Test Score Average\obj\Debug\Test_Score_Average.Resources.resources
+D:\Cs101\Chapter 4VB\Test Score Average\Test Score Average\obj\Debug\Test Score Average.vbproj.GenerateResource.cache
+D:\Cs101\Chapter 4VB\Test Score Average\Test Score Average\obj\Debug\Test Score Average.vbproj.CoreCompileInputs.cache
+D:\Cs101\Chapter 4VB\Test Score Average\Test Score Average\obj\Debug\Test Score Average.exe
+D:\Cs101\Chapter 4VB\Test Score Average\Test Score Average\obj\Debug\Test Score Average.xml
+D:\Cs101\Chapter 4VB\Test Score Average\Test Score Average\obj\Debug\Test Score Average.pdb
+D:\Cs101\Chapter 4VB\Test Score Average 2\Test Score Average\bin\Debug\Test Score Average.exe.config
+D:\Cs101\Chapter 4VB\Test Score Average 2\Test Score Average\bin\Debug\Test Score Average.exe
+D:\Cs101\Chapter 4VB\Test Score Average 2\Test Score Average\bin\Debug\Test Score Average.pdb
+D:\Cs101\Chapter 4VB\Test Score Average 2\Test Score Average\bin\Debug\Test Score Average.xml
+D:\Cs101\Chapter 4VB\Test Score Average 2\Test Score Average\obj\Debug\Test Score Average.vbprojAssemblyReference.cache
+D:\Cs101\Chapter 4VB\Test Score Average 2\Test Score Average\obj\Debug\Test_Score_Average.Form1.resources
+D:\Cs101\Chapter 4VB\Test Score Average 2\Test Score Average\obj\Debug\Test_Score_Average.Resources.resources
+D:\Cs101\Chapter 4VB\Test Score Average 2\Test Score Average\obj\Debug\Test Score Average.vbproj.GenerateResource.cache
+D:\Cs101\Chapter 4VB\Test Score Average 2\Test Score Average\obj\Debug\Test Score Average.vbproj.CoreCompileInputs.cache
+D:\Cs101\Chapter 4VB\Test Score Average 2\Test Score Average\obj\Debug\Test Score Average.exe
+D:\Cs101\Chapter 4VB\Test Score Average 2\Test Score Average\obj\Debug\Test Score Average.xml
+D:\Cs101\Chapter 4VB\Test Score Average 2\Test Score Average\obj\Debug\Test Score Average.pdb

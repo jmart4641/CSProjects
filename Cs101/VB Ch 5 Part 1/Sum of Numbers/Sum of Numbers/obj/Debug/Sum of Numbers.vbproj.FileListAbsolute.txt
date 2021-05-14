@@ -1,0 +1,12 @@
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\Chapter 5\VB Ch 5 Part 1\Sum of Numbers\Sum of Numbers\bin\Debug\Sum of Numbers.exe.config
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\Chapter 5\VB Ch 5 Part 1\Sum of Numbers\Sum of Numbers\bin\Debug\Sum of Numbers.exe
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\Chapter 5\VB Ch 5 Part 1\Sum of Numbers\Sum of Numbers\bin\Debug\Sum of Numbers.pdb
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\Chapter 5\VB Ch 5 Part 1\Sum of Numbers\Sum of Numbers\bin\Debug\Sum of Numbers.xml
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\Chapter 5\VB Ch 5 Part 1\Sum of Numbers\Sum of Numbers\obj\Debug\Sum of Numbers.vbprojAssemblyReference.cache
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\Chapter 5\VB Ch 5 Part 1\Sum of Numbers\Sum of Numbers\obj\Debug\Sum_of_Numbers.Form1.resources
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\Chapter 5\VB Ch 5 Part 1\Sum of Numbers\Sum of Numbers\obj\Debug\Sum_of_Numbers.Resources.resources
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\Chapter 5\VB Ch 5 Part 1\Sum of Numbers\Sum of Numbers\obj\Debug\Sum of Numbers.vbproj.GenerateResource.cache
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\Chapter 5\VB Ch 5 Part 1\Sum of Numbers\Sum of Numbers\obj\Debug\Sum of Numbers.vbproj.CoreCompileInputs.cache
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\Chapter 5\VB Ch 5 Part 1\Sum of Numbers\Sum of Numbers\obj\Debug\Sum of Numbers.exe
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\Chapter 5\VB Ch 5 Part 1\Sum of Numbers\Sum of Numbers\obj\Debug\Sum of Numbers.xml
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\Chapter 5\VB Ch 5 Part 1\Sum of Numbers\Sum of Numbers\obj\Debug\Sum of Numbers.pdb

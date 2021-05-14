@@ -1,0 +1,12 @@
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\Coin Toss\Coin Toss\bin\Debug\Coin Toss.exe.config
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\Coin Toss\Coin Toss\bin\Debug\Coin Toss.exe
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\Coin Toss\Coin Toss\bin\Debug\Coin Toss.pdb
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\Coin Toss\Coin Toss\bin\Debug\Coin Toss.xml
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\Coin Toss\Coin Toss\obj\Debug\Coin Toss.vbprojAssemblyReference.cache
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\Coin Toss\Coin Toss\obj\Debug\Coin_Toss.Form1.resources
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\Coin Toss\Coin Toss\obj\Debug\Coin_Toss.Resources.resources
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\Coin Toss\Coin Toss\obj\Debug\Coin Toss.vbproj.GenerateResource.cache
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\Coin Toss\Coin Toss\obj\Debug\Coin Toss.vbproj.CoreCompileInputs.cache
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\Coin Toss\Coin Toss\obj\Debug\Coin Toss.exe
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\Coin Toss\Coin Toss\obj\Debug\Coin Toss.xml
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\Coin Toss\Coin Toss\obj\Debug\Coin Toss.pdb

@@ -1,0 +1,12 @@
+D:\Cs101\VB Chapter 2\Card Flip\Card Flip\bin\Debug\Card Flip.exe.config
+D:\Cs101\VB Chapter 2\Card Flip\Card Flip\bin\Debug\Card Flip.exe
+D:\Cs101\VB Chapter 2\Card Flip\Card Flip\bin\Debug\Card Flip.pdb
+D:\Cs101\VB Chapter 2\Card Flip\Card Flip\bin\Debug\Card Flip.xml
+D:\Cs101\VB Chapter 2\Card Flip\Card Flip\obj\Debug\Card Flip.vbprojAssemblyReference.cache
+D:\Cs101\VB Chapter 2\Card Flip\Card Flip\obj\Debug\Card_Flip.Form1.resources
+D:\Cs101\VB Chapter 2\Card Flip\Card Flip\obj\Debug\Card_Flip.Resources.resources
+D:\Cs101\VB Chapter 2\Card Flip\Card Flip\obj\Debug\Card Flip.vbproj.GenerateResource.cache
+D:\Cs101\VB Chapter 2\Card Flip\Card Flip\obj\Debug\Card Flip.vbproj.CoreCompileInputs.cache
+D:\Cs101\VB Chapter 2\Card Flip\Card Flip\obj\Debug\Card Flip.exe
+D:\Cs101\VB Chapter 2\Card Flip\Card Flip\obj\Debug\Card Flip.xml
+D:\Cs101\VB Chapter 2\Card Flip\Card Flip\obj\Debug\Card Flip.pdb

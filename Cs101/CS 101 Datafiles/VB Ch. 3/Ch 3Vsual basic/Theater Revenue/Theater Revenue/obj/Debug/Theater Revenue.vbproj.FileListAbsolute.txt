@@ -1,0 +1,12 @@
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Theater Revenue\Theater Revenue\bin\Debug\Theater Revenue.exe.config
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Theater Revenue\Theater Revenue\bin\Debug\Theater Revenue.exe
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Theater Revenue\Theater Revenue\bin\Debug\Theater Revenue.pdb
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Theater Revenue\Theater Revenue\bin\Debug\Theater Revenue.xml
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Theater Revenue\Theater Revenue\obj\Debug\Theater Revenue.vbprojAssemblyReference.cache
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Theater Revenue\Theater Revenue\obj\Debug\Theater_Revenue.Form1.resources
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Theater Revenue\Theater Revenue\obj\Debug\Theater_Revenue.Resources.resources
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Theater Revenue\Theater Revenue\obj\Debug\Theater Revenue.vbproj.GenerateResource.cache
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Theater Revenue\Theater Revenue\obj\Debug\Theater Revenue.vbproj.CoreCompileInputs.cache
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Theater Revenue\Theater Revenue\obj\Debug\Theater Revenue.exe
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Theater Revenue\Theater Revenue\obj\Debug\Theater Revenue.xml
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Theater Revenue\Theater Revenue\obj\Debug\Theater Revenue.pdb

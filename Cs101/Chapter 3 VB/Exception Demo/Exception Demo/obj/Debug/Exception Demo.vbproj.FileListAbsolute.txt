@@ -1,0 +1,12 @@
+D:\Cs101\Chapter 3 VB\Exception Demo\Exception Demo\bin\Debug\Exception Demo.exe.config
+D:\Cs101\Chapter 3 VB\Exception Demo\Exception Demo\bin\Debug\Exception Demo.exe
+D:\Cs101\Chapter 3 VB\Exception Demo\Exception Demo\bin\Debug\Exception Demo.pdb
+D:\Cs101\Chapter 3 VB\Exception Demo\Exception Demo\bin\Debug\Exception Demo.xml
+D:\Cs101\Chapter 3 VB\Exception Demo\Exception Demo\obj\Debug\Exception Demo.vbprojAssemblyReference.cache
+D:\Cs101\Chapter 3 VB\Exception Demo\Exception Demo\obj\Debug\Exception_Demo.Form1.resources
+D:\Cs101\Chapter 3 VB\Exception Demo\Exception Demo\obj\Debug\Exception_Demo.Resources.resources
+D:\Cs101\Chapter 3 VB\Exception Demo\Exception Demo\obj\Debug\Exception Demo.vbproj.GenerateResource.cache
+D:\Cs101\Chapter 3 VB\Exception Demo\Exception Demo\obj\Debug\Exception Demo.vbproj.CoreCompileInputs.cache
+D:\Cs101\Chapter 3 VB\Exception Demo\Exception Demo\obj\Debug\Exception Demo.exe
+D:\Cs101\Chapter 3 VB\Exception Demo\Exception Demo\obj\Debug\Exception Demo.xml
+D:\Cs101\Chapter 3 VB\Exception Demo\Exception Demo\obj\Debug\Exception Demo.pdb

@@ -1,0 +1,12 @@
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\Chapter 5\VB Ch 5 Part 1\Distance Calculator\Distance Calculator\bin\Debug\Distance Calculator.exe.config
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\Chapter 5\VB Ch 5 Part 1\Distance Calculator\Distance Calculator\bin\Debug\Distance Calculator.exe
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\Chapter 5\VB Ch 5 Part 1\Distance Calculator\Distance Calculator\bin\Debug\Distance Calculator.pdb
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\Chapter 5\VB Ch 5 Part 1\Distance Calculator\Distance Calculator\bin\Debug\Distance Calculator.xml
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\Chapter 5\VB Ch 5 Part 1\Distance Calculator\Distance Calculator\obj\Debug\Distance Calculator.vbprojAssemblyReference.cache
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\Chapter 5\VB Ch 5 Part 1\Distance Calculator\Distance Calculator\obj\Debug\Distance_Calculator.Form1.resources
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\Chapter 5\VB Ch 5 Part 1\Distance Calculator\Distance Calculator\obj\Debug\Distance_Calculator.Resources.resources
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\Chapter 5\VB Ch 5 Part 1\Distance Calculator\Distance Calculator\obj\Debug\Distance Calculator.vbproj.GenerateResource.cache
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\Chapter 5\VB Ch 5 Part 1\Distance Calculator\Distance Calculator\obj\Debug\Distance Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\Chapter 5\VB Ch 5 Part 1\Distance Calculator\Distance Calculator\obj\Debug\Distance Calculator.exe
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\Chapter 5\VB Ch 5 Part 1\Distance Calculator\Distance Calculator\obj\Debug\Distance Calculator.xml
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\Chapter 5\VB Ch 5 Part 1\Distance Calculator\Distance Calculator\obj\Debug\Distance Calculator.pdb

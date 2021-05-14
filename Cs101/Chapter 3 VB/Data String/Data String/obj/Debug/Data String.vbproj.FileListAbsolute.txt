@@ -1,0 +1,5 @@
+D:\Cs101\Chapter 3 VB\Data String\Data String\obj\Debug\Data String.vbprojAssemblyReference.cache
+D:\Cs101\Chapter 3 VB\Data String\Data String\obj\Debug\Data_String.Form1.resources
+D:\Cs101\Chapter 3 VB\Data String\Data String\obj\Debug\Data_String.Resources.resources
+D:\Cs101\Chapter 3 VB\Data String\Data String\obj\Debug\Data String.vbproj.GenerateResource.cache
+D:\Cs101\Chapter 3 VB\Data String\Data String\obj\Debug\Data String.vbproj.CoreCompileInputs.cache

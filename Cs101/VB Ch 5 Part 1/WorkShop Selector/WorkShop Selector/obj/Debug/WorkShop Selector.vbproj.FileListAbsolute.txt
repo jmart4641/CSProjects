@@ -1,0 +1,12 @@
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\Chapter 5\VB Ch 5 Part 1\WorkShop Selector\WorkShop Selector\bin\Debug\WorkShop Selector.exe.config
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\Chapter 5\VB Ch 5 Part 1\WorkShop Selector\WorkShop Selector\bin\Debug\WorkShop Selector.exe
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\Chapter 5\VB Ch 5 Part 1\WorkShop Selector\WorkShop Selector\bin\Debug\WorkShop Selector.pdb
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\Chapter 5\VB Ch 5 Part 1\WorkShop Selector\WorkShop Selector\bin\Debug\WorkShop Selector.xml
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\Chapter 5\VB Ch 5 Part 1\WorkShop Selector\WorkShop Selector\obj\Debug\WorkShop Selector.vbprojAssemblyReference.cache
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\Chapter 5\VB Ch 5 Part 1\WorkShop Selector\WorkShop Selector\obj\Debug\WorkShop_Selector.Form1.resources
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\Chapter 5\VB Ch 5 Part 1\WorkShop Selector\WorkShop Selector\obj\Debug\WorkShop_Selector.Resources.resources
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\Chapter 5\VB Ch 5 Part 1\WorkShop Selector\WorkShop Selector\obj\Debug\WorkShop Selector.vbproj.GenerateResource.cache
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\Chapter 5\VB Ch 5 Part 1\WorkShop Selector\WorkShop Selector\obj\Debug\WorkShop Selector.vbproj.CoreCompileInputs.cache
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\Chapter 5\VB Ch 5 Part 1\WorkShop Selector\WorkShop Selector\obj\Debug\WorkShop Selector.exe
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\Chapter 5\VB Ch 5 Part 1\WorkShop Selector\WorkShop Selector\obj\Debug\WorkShop Selector.xml
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\Chapter 5\VB Ch 5 Part 1\WorkShop Selector\WorkShop Selector\obj\Debug\WorkShop Selector.pdb

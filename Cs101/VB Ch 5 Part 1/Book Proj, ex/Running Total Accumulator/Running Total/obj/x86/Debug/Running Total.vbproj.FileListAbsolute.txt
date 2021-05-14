@@ -1,0 +1,20 @@
+D:\sovb15\student sample programs\Chap5\Running Total\Running Total\bin\Debug\Running Total.exe
+D:\sovb15\student sample programs\Chap5\Running Total\Running Total\bin\Debug\Running Total.pdb
+D:\sovb15\student sample programs\Chap5\Running Total\Running Total\bin\Debug\Running Total.xml
+D:\sovb15\student sample programs\Chap5\Running Total\Running Total\obj\x86\Debug\Running_Total.Form1.resources
+D:\sovb15\student sample programs\Chap5\Running Total\Running Total\obj\x86\Debug\Running_Total.Resources.resources
+D:\sovb15\student sample programs\Chap5\Running Total\Running Total\obj\x86\Debug\Running Total.vbproj.GenerateResource.Cache
+D:\sovb15\student sample programs\Chap5\Running Total\Running Total\obj\x86\Debug\Running Total.exe
+D:\sovb15\student sample programs\Chap5\Running Total\Running Total\obj\x86\Debug\Running Total.xml
+D:\sovb15\student sample programs\Chap5\Running Total\Running Total\obj\x86\Debug\Running Total.pdb
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\Running Total Accumulator\Running Total\bin\Debug\Running Total.exe
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\Running Total Accumulator\Running Total\bin\Debug\Running Total.pdb
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\Running Total Accumulator\Running Total\bin\Debug\Running Total.xml
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\Running Total Accumulator\Running Total\obj\x86\Debug\Running Total.vbprojAssemblyReference.cache
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\Running Total Accumulator\Running Total\obj\x86\Debug\Running_Total.Form1.resources
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\Running Total Accumulator\Running Total\obj\x86\Debug\Running_Total.Resources.resources
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\Running Total Accumulator\Running Total\obj\x86\Debug\Running Total.vbproj.GenerateResource.cache
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\Running Total Accumulator\Running Total\obj\x86\Debug\Running Total.vbproj.CoreCompileInputs.cache
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\Running Total Accumulator\Running Total\obj\x86\Debug\Running Total.exe
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\Running Total Accumulator\Running Total\obj\x86\Debug\Running Total.xml
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\Running Total Accumulator\Running Total\obj\x86\Debug\Running Total.pdb

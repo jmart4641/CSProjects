@@ -1,0 +1,12 @@
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter 3 prac\Salary Calculator\Salary Calculator\bin\Debug\Salary Calculator.exe.config
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter 3 prac\Salary Calculator\Salary Calculator\bin\Debug\Salary Calculator.exe
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter 3 prac\Salary Calculator\Salary Calculator\bin\Debug\Salary Calculator.pdb
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter 3 prac\Salary Calculator\Salary Calculator\bin\Debug\Salary Calculator.xml
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter 3 prac\Salary Calculator\Salary Calculator\obj\Debug\Salary Calculator.vbprojAssemblyReference.cache
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter 3 prac\Salary Calculator\Salary Calculator\obj\Debug\Salary_Calculator.Form1.resources
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter 3 prac\Salary Calculator\Salary Calculator\obj\Debug\Salary_Calculator.Resources.resources
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter 3 prac\Salary Calculator\Salary Calculator\obj\Debug\Salary Calculator.vbproj.GenerateResource.cache
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter 3 prac\Salary Calculator\Salary Calculator\obj\Debug\Salary Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter 3 prac\Salary Calculator\Salary Calculator\obj\Debug\Salary Calculator.exe
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter 3 prac\Salary Calculator\Salary Calculator\obj\Debug\Salary Calculator.xml
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter 3 prac\Salary Calculator\Salary Calculator\obj\Debug\Salary Calculator.pdb

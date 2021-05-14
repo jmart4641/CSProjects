@@ -1,0 +1,12 @@
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Weekly Temperature Average\Weekly Temperature Average\bin\Debug\Weekly Temperature Average.exe.config
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Weekly Temperature Average\Weekly Temperature Average\bin\Debug\Weekly Temperature Average.exe
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Weekly Temperature Average\Weekly Temperature Average\bin\Debug\Weekly Temperature Average.pdb
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Weekly Temperature Average\Weekly Temperature Average\bin\Debug\Weekly Temperature Average.xml
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Weekly Temperature Average\Weekly Temperature Average\obj\Debug\Weekly Temperature Average.vbprojAssemblyReference.cache
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Weekly Temperature Average\Weekly Temperature Average\obj\Debug\Weekly_Temperature_Average.Form1.resources
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Weekly Temperature Average\Weekly Temperature Average\obj\Debug\Weekly_Temperature_Average.Resources.resources
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Weekly Temperature Average\Weekly Temperature Average\obj\Debug\Weekly Temperature Average.vbproj.GenerateResource.cache
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Weekly Temperature Average\Weekly Temperature Average\obj\Debug\Weekly Temperature Average.vbproj.CoreCompileInputs.cache
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Weekly Temperature Average\Weekly Temperature Average\obj\Debug\Weekly Temperature Average.exe
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Weekly Temperature Average\Weekly Temperature Average\obj\Debug\Weekly Temperature Average.xml
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Weekly Temperature Average\Weekly Temperature Average\obj\Debug\Weekly Temperature Average.pdb

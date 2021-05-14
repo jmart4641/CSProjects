@@ -1,0 +1,12 @@
+D:\Cs101\Chapter 4VB\Loan Qualifier\Loan Qualifier\bin\Debug\Loan Qualifier.exe.config
+D:\Cs101\Chapter 4VB\Loan Qualifier\Loan Qualifier\bin\Debug\Loan Qualifier.exe
+D:\Cs101\Chapter 4VB\Loan Qualifier\Loan Qualifier\bin\Debug\Loan Qualifier.pdb
+D:\Cs101\Chapter 4VB\Loan Qualifier\Loan Qualifier\bin\Debug\Loan Qualifier.xml
+D:\Cs101\Chapter 4VB\Loan Qualifier\Loan Qualifier\obj\Debug\Loan Qualifier.vbprojAssemblyReference.cache
+D:\Cs101\Chapter 4VB\Loan Qualifier\Loan Qualifier\obj\Debug\Loan_Qualifier.Form1.resources
+D:\Cs101\Chapter 4VB\Loan Qualifier\Loan Qualifier\obj\Debug\Loan_Qualifier.Resources.resources
+D:\Cs101\Chapter 4VB\Loan Qualifier\Loan Qualifier\obj\Debug\Loan Qualifier.vbproj.GenerateResource.cache
+D:\Cs101\Chapter 4VB\Loan Qualifier\Loan Qualifier\obj\Debug\Loan Qualifier.vbproj.CoreCompileInputs.cache
+D:\Cs101\Chapter 4VB\Loan Qualifier\Loan Qualifier\obj\Debug\Loan Qualifier.exe
+D:\Cs101\Chapter 4VB\Loan Qualifier\Loan Qualifier\obj\Debug\Loan Qualifier.xml
+D:\Cs101\Chapter 4VB\Loan Qualifier\Loan Qualifier\obj\Debug\Loan Qualifier.pdb

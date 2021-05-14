@@ -1,0 +1,12 @@
+D:\Cs101\Chapter 3 VB\Salary Calculator1\Salary Calculator1\bin\Debug\Salary Calculator1.exe.config
+D:\Cs101\Chapter 3 VB\Salary Calculator1\Salary Calculator1\bin\Debug\Salary Calculator1.exe
+D:\Cs101\Chapter 3 VB\Salary Calculator1\Salary Calculator1\bin\Debug\Salary Calculator1.pdb
+D:\Cs101\Chapter 3 VB\Salary Calculator1\Salary Calculator1\bin\Debug\Salary Calculator1.xml
+D:\Cs101\Chapter 3 VB\Salary Calculator1\Salary Calculator1\obj\Debug\Salary Calculator1.vbprojAssemblyReference.cache
+D:\Cs101\Chapter 3 VB\Salary Calculator1\Salary Calculator1\obj\Debug\Salary_Calculator1.Form1.resources
+D:\Cs101\Chapter 3 VB\Salary Calculator1\Salary Calculator1\obj\Debug\Salary_Calculator1.Resources.resources
+D:\Cs101\Chapter 3 VB\Salary Calculator1\Salary Calculator1\obj\Debug\Salary Calculator1.vbproj.GenerateResource.cache
+D:\Cs101\Chapter 3 VB\Salary Calculator1\Salary Calculator1\obj\Debug\Salary Calculator1.vbproj.CoreCompileInputs.cache
+D:\Cs101\Chapter 3 VB\Salary Calculator1\Salary Calculator1\obj\Debug\Salary Calculator1.exe
+D:\Cs101\Chapter 3 VB\Salary Calculator1\Salary Calculator1\obj\Debug\Salary Calculator1.xml
+D:\Cs101\Chapter 3 VB\Salary Calculator1\Salary Calculator1\obj\Debug\Salary Calculator1.pdb

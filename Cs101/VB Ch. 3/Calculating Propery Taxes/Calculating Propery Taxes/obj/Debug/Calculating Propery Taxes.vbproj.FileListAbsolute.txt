@@ -1,0 +1,12 @@
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Calculating Propery Taxes\Calculating Propery Taxes\bin\Debug\Calculating Propery Taxes.exe.config
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Calculating Propery Taxes\Calculating Propery Taxes\bin\Debug\Calculating Propery Taxes.exe
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Calculating Propery Taxes\Calculating Propery Taxes\bin\Debug\Calculating Propery Taxes.pdb
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Calculating Propery Taxes\Calculating Propery Taxes\bin\Debug\Calculating Propery Taxes.xml
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Calculating Propery Taxes\Calculating Propery Taxes\obj\Debug\Calculating Propery Taxes.vbprojAssemblyReference.cache
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Calculating Propery Taxes\Calculating Propery Taxes\obj\Debug\Calculating_Propery_Taxes.Form1.resources
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Calculating Propery Taxes\Calculating Propery Taxes\obj\Debug\Calculating_Propery_Taxes.Resources.resources
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Calculating Propery Taxes\Calculating Propery Taxes\obj\Debug\Calculating Propery Taxes.vbproj.GenerateResource.cache
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Calculating Propery Taxes\Calculating Propery Taxes\obj\Debug\Calculating Propery Taxes.vbproj.CoreCompileInputs.cache
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Calculating Propery Taxes\Calculating Propery Taxes\obj\Debug\Calculating Propery Taxes.exe
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Calculating Propery Taxes\Calculating Propery Taxes\obj\Debug\Calculating Propery Taxes.xml
+C:\Users\josem\OneDrive\Desktop\CS 101 Datafiles\VB Ch. 3\Calculating Propery Taxes\Calculating Propery Taxes\obj\Debug\Calculating Propery Taxes.pdb

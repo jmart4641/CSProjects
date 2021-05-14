@@ -1,0 +1,12 @@
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\DoWhileLoop\DoWhileLoop\bin\Debug\DoWhileLoop.exe.config
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\DoWhileLoop\DoWhileLoop\bin\Debug\DoWhileLoop.exe
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\DoWhileLoop\DoWhileLoop\bin\Debug\DoWhileLoop.pdb
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\DoWhileLoop\DoWhileLoop\bin\Debug\DoWhileLoop.xml
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\DoWhileLoop\DoWhileLoop\obj\Debug\DoWhileLoop.vbprojAssemblyReference.cache
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\DoWhileLoop\DoWhileLoop\obj\Debug\DoWhileLoop.Form1.resources
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\DoWhileLoop\DoWhileLoop\obj\Debug\DoWhileLoop.Resources.resources
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\DoWhileLoop\DoWhileLoop\obj\Debug\DoWhileLoop.vbproj.GenerateResource.cache
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\DoWhileLoop\DoWhileLoop\obj\Debug\DoWhileLoop.vbproj.CoreCompileInputs.cache
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\DoWhileLoop\DoWhileLoop\obj\Debug\DoWhileLoop.exe
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\DoWhileLoop\DoWhileLoop\obj\Debug\DoWhileLoop.xml
+D:\Cs101\VB Ch 5 Part 1\Book Proj, ex\DoWhileLoop\DoWhileLoop\obj\Debug\DoWhileLoop.pdb

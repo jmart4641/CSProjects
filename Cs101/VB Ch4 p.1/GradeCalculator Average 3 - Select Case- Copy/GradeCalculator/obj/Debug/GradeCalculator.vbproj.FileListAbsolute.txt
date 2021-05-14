@@ -1,0 +1,60 @@
+D:\Cs101\VB Ch4 p.1\GradeCalculator\GradeCalculator\bin\Debug\GradeCalculator.exe.config
+D:\Cs101\VB Ch4 p.1\GradeCalculator\GradeCalculator\bin\Debug\GradeCalculator.exe
+D:\Cs101\VB Ch4 p.1\GradeCalculator\GradeCalculator\bin\Debug\GradeCalculator.pdb
+D:\Cs101\VB Ch4 p.1\GradeCalculator\GradeCalculator\bin\Debug\GradeCalculator.xml
+D:\Cs101\VB Ch4 p.1\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.vbprojAssemblyReference.cache
+D:\Cs101\VB Ch4 p.1\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.Form1.resources
+D:\Cs101\VB Ch4 p.1\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.Resources.resources
+D:\Cs101\VB Ch4 p.1\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.vbproj.GenerateResource.cache
+D:\Cs101\VB Ch4 p.1\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.vbproj.CoreCompileInputs.cache
+D:\Cs101\VB Ch4 p.1\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.exe
+D:\Cs101\VB Ch4 p.1\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.xml
+D:\Cs101\VB Ch4 p.1\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.pdb
+D:\Cs101\VB Ch4 p.1\GradeCalculator Average 2\GradeCalculator\bin\Debug\GradeCalculator.exe.config
+D:\Cs101\VB Ch4 p.1\GradeCalculator Average 2\GradeCalculator\bin\Debug\GradeCalculator.exe
+D:\Cs101\VB Ch4 p.1\GradeCalculator Average 2\GradeCalculator\bin\Debug\GradeCalculator.pdb
+D:\Cs101\VB Ch4 p.1\GradeCalculator Average 2\GradeCalculator\bin\Debug\GradeCalculator.xml
+D:\Cs101\VB Ch4 p.1\GradeCalculator Average 2\GradeCalculator\obj\Debug\GradeCalculator.vbprojAssemblyReference.cache
+D:\Cs101\VB Ch4 p.1\GradeCalculator Average 2\GradeCalculator\obj\Debug\GradeCalculator.Form1.resources
+D:\Cs101\VB Ch4 p.1\GradeCalculator Average 2\GradeCalculator\obj\Debug\GradeCalculator.Resources.resources
+D:\Cs101\VB Ch4 p.1\GradeCalculator Average 2\GradeCalculator\obj\Debug\GradeCalculator.vbproj.GenerateResource.cache
+D:\Cs101\VB Ch4 p.1\GradeCalculator Average 2\GradeCalculator\obj\Debug\GradeCalculator.vbproj.CoreCompileInputs.cache
+D:\Cs101\VB Ch4 p.1\GradeCalculator Average 2\GradeCalculator\obj\Debug\GradeCalculator.exe
+D:\Cs101\VB Ch4 p.1\GradeCalculator Average 2\GradeCalculator\obj\Debug\GradeCalculator.xml
+D:\Cs101\VB Ch4 p.1\GradeCalculator Average 2\GradeCalculator\obj\Debug\GradeCalculator.pdb
+D:\Cs101\VB Ch4 p.1\GradeCalculator Average 2 - Copy\GradeCalculator\bin\Debug\GradeCalculator.exe.config
+D:\Cs101\VB Ch4 p.1\GradeCalculator Average 2 - Copy\GradeCalculator\bin\Debug\GradeCalculator.exe
+D:\Cs101\VB Ch4 p.1\GradeCalculator Average 2 - Copy\GradeCalculator\bin\Debug\GradeCalculator.pdb
+D:\Cs101\VB Ch4 p.1\GradeCalculator Average 2 - Copy\GradeCalculator\bin\Debug\GradeCalculator.xml
+D:\Cs101\VB Ch4 p.1\GradeCalculator Average 2 - Copy\GradeCalculator\obj\Debug\GradeCalculator.vbprojAssemblyReference.cache
+D:\Cs101\VB Ch4 p.1\GradeCalculator Average 2 - Copy\GradeCalculator\obj\Debug\GradeCalculator.lblGrade.resources
+D:\Cs101\VB Ch4 p.1\GradeCalculator Average 2 - Copy\GradeCalculator\obj\Debug\GradeCalculator.Resources.resources
+D:\Cs101\VB Ch4 p.1\GradeCalculator Average 2 - Copy\GradeCalculator\obj\Debug\GradeCalculator.vbproj.GenerateResource.cache
+D:\Cs101\VB Ch4 p.1\GradeCalculator Average 2 - Copy\GradeCalculator\obj\Debug\GradeCalculator.vbproj.CoreCompileInputs.cache
+D:\Cs101\VB Ch4 p.1\GradeCalculator Average 2 - Copy\GradeCalculator\obj\Debug\GradeCalculator.exe
+D:\Cs101\VB Ch4 p.1\GradeCalculator Average 2 - Copy\GradeCalculator\obj\Debug\GradeCalculator.xml
+D:\Cs101\VB Ch4 p.1\GradeCalculator Average 2 - Copy\GradeCalculator\obj\Debug\GradeCalculator.pdb
+D:\Cs101\VB Ch4 p.1\GradeCalculator Average 3 - If..Elseotherway - Copy\GradeCalculator\bin\Debug\GradeCalculator.exe.config
+D:\Cs101\VB Ch4 p.1\GradeCalculator Average 3 - If..Elseotherway - Copy\GradeCalculator\bin\Debug\GradeCalculator.exe
+D:\Cs101\VB Ch4 p.1\GradeCalculator Average 3 - If..Elseotherway - Copy\GradeCalculator\bin\Debug\GradeCalculator.pdb
+D:\Cs101\VB Ch4 p.1\GradeCalculator Average 3 - If..Elseotherway - Copy\GradeCalculator\bin\Debug\GradeCalculator.xml
+D:\Cs101\VB Ch4 p.1\GradeCalculator Average 3 - If..Elseotherway - Copy\GradeCalculator\obj\Debug\GradeCalculator.vbprojAssemblyReference.cache
+D:\Cs101\VB Ch4 p.1\GradeCalculator Average 3 - If..Elseotherway - Copy\GradeCalculator\obj\Debug\GradeCalculator.lblGrade.resources
+D:\Cs101\VB Ch4 p.1\GradeCalculator Average 3 - If..Elseotherway - Copy\GradeCalculator\obj\Debug\GradeCalculator.Resources.resources
+D:\Cs101\VB Ch4 p.1\GradeCalculator Average 3 - If..Elseotherway - Copy\GradeCalculator\obj\Debug\GradeCalculator.vbproj.GenerateResource.cache
+D:\Cs101\VB Ch4 p.1\GradeCalculator Average 3 - If..Elseotherway - Copy\GradeCalculator\obj\Debug\GradeCalculator.vbproj.CoreCompileInputs.cache
+D:\Cs101\VB Ch4 p.1\GradeCalculator Average 3 - If..Elseotherway - Copy\GradeCalculator\obj\Debug\GradeCalculator.exe
+D:\Cs101\VB Ch4 p.1\GradeCalculator Average 3 - If..Elseotherway - Copy\GradeCalculator\obj\Debug\GradeCalculator.xml
+D:\Cs101\VB Ch4 p.1\GradeCalculator Average 3 - If..Elseotherway - Copy\GradeCalculator\obj\Debug\GradeCalculator.pdb
+D:\Cs101\VB Ch4 p.1\GradeCalculator Average 3 - Select Case- Copy\GradeCalculator\bin\Debug\GradeCalculator.exe.config
+D:\Cs101\VB Ch4 p.1\GradeCalculator Average 3 - Select Case- Copy\GradeCalculator\bin\Debug\GradeCalculator.exe
+D:\Cs101\VB Ch4 p.1\GradeCalculator Average 3 - Select Case- Copy\GradeCalculator\bin\Debug\GradeCalculator.pdb
+D:\Cs101\VB Ch4 p.1\GradeCalculator Average 3 - Select Case- Copy\GradeCalculator\bin\Debug\GradeCalculator.xml
+D:\Cs101\VB Ch4 p.1\GradeCalculator Average 3 - Select Case- Copy\GradeCalculator\obj\Debug\GradeCalculator.vbprojAssemblyReference.cache
+D:\Cs101\VB Ch4 p.1\GradeCalculator Average 3 - Select Case- Copy\GradeCalculator\obj\Debug\GradeCalculator.lblGrade.resources
+D:\Cs101\VB Ch4 p.1\GradeCalculator Average 3 - Select Case- Copy\GradeCalculator\obj\Debug\GradeCalculator.Resources.resources
+D:\Cs101\VB Ch4 p.1\GradeCalculator Average 3 - Select Case- Copy\GradeCalculator\obj\Debug\GradeCalculator.vbproj.GenerateResource.cache
+D:\Cs101\VB Ch4 p.1\GradeCalculator Average 3 - Select Case- Copy\GradeCalculator\obj\Debug\GradeCalculator.vbproj.CoreCompileInputs.cache
+D:\Cs101\VB Ch4 p.1\GradeCalculator Average 3 - Select Case- Copy\GradeCalculator\obj\Debug\GradeCalculator.exe
+D:\Cs101\VB Ch4 p.1\GradeCalculator Average 3 - Select Case- Copy\GradeCalculator\obj\Debug\GradeCalculator.xml
+D:\Cs101\VB Ch4 p.1\GradeCalculator Average 3 - Select Case- Copy\GradeCalculator\obj\Debug\GradeCalculator.pdb

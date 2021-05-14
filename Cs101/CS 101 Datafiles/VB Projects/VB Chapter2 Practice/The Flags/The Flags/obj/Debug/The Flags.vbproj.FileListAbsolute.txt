@@ -1,0 +1,12 @@
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter2 Practice\The Flags\The Flags\bin\Debug\The Flags.exe.config
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter2 Practice\The Flags\The Flags\bin\Debug\The Flags.exe
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter2 Practice\The Flags\The Flags\bin\Debug\The Flags.pdb
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter2 Practice\The Flags\The Flags\bin\Debug\The Flags.xml
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter2 Practice\The Flags\The Flags\obj\Debug\The Flags.vbprojAssemblyReference.cache
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter2 Practice\The Flags\The Flags\obj\Debug\The_Flags.Form1.resources
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter2 Practice\The Flags\The Flags\obj\Debug\The_Flags.Resources.resources
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter2 Practice\The Flags\The Flags\obj\Debug\The Flags.vbproj.GenerateResource.cache
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter2 Practice\The Flags\The Flags\obj\Debug\The Flags.vbproj.CoreCompileInputs.cache
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter2 Practice\The Flags\The Flags\obj\Debug\The Flags.exe
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter2 Practice\The Flags\The Flags\obj\Debug\The Flags.xml
+C:\Users\josem\OneDrive\Desktop\VB Projects\VB Chapter2 Practice\The Flags\The Flags\obj\Debug\The Flags.pdb

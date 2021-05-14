@@ -1,0 +1,22 @@
+E:\COSCI 103 (1110)\VB 3\DateString\DateString\bin\Debug\DateString.exe.config
+E:\COSCI 103 (1110)\VB 3\DateString\DateString\bin\Debug\DateString.exe
+E:\COSCI 103 (1110)\VB 3\DateString\DateString\bin\Debug\DateString.pdb
+E:\COSCI 103 (1110)\VB 3\DateString\DateString\bin\Debug\DateString.xml
+E:\COSCI 103 (1110)\VB 3\DateString\DateString\obj\Debug\DateString.vbprojAssemblyReference.cache
+E:\COSCI 103 (1110)\VB 3\DateString\DateString\obj\Debug\DateString.Form1.resources
+E:\COSCI 103 (1110)\VB 3\DateString\DateString\obj\Debug\DateString.Resources.resources
+E:\COSCI 103 (1110)\VB 3\DateString\DateString\obj\Debug\DateString.vbproj.GenerateResource.cache
+E:\COSCI 103 (1110)\VB 3\DateString\DateString\obj\Debug\DateString.vbproj.CoreCompileInputs.cache
+E:\COSCI 103 (1110)\VB 3\DateString\DateString\obj\Debug\DateString.exe
+E:\COSCI 103 (1110)\VB 3\DateString\DateString\obj\Debug\DateString.xml
+E:\COSCI 103 (1110)\VB 3\DateString\DateString\obj\Debug\DateString.pdb
+E:\COSCI 103\VB 3\DateString\DateString\bin\Debug\DateString.exe.config
+E:\COSCI 103\VB 3\DateString\DateString\obj\Debug\DateString.exe
+E:\COSCI 103\VB 3\DateString\DateString\obj\Debug\DateString.xml
+E:\COSCI 103\VB 3\DateString\DateString\obj\Debug\DateString.pdb
+E:\COSCI 103\VB 3\DateString\DateString\bin\Debug\DateString.exe
+E:\COSCI 103\VB 3\DateString\DateString\bin\Debug\DateString.pdb
+E:\COSCI 103\VB 3\DateString\DateString\bin\Debug\DateString.xml
+E:\COSCI 103\VB 3\DateString\DateString\obj\Debug\DateString.Form1.resources
+E:\COSCI 103\VB 3\DateString\DateString\obj\Debug\DateString.Resources.resources
+E:\COSCI 103\VB 3\DateString\DateString\obj\Debug\DateString.vbproj.GenerateResource.cache
